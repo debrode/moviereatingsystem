@@ -36,7 +36,7 @@ function App(){
   return (
     <>
     <header>
-      
+      <h3>MovieDB</h3>
       <form onSubmit={handleOnSubmit}>
       <input 
       className="search" 
